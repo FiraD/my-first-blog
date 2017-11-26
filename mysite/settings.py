@@ -25,7 +25,7 @@ SECRET_KEY = '2j$^24akc1#&ww$dxw_zx_7try(ax&k5od3j00j=194^q*o%#s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'FiraDo.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'firado.pythonanywhere.com']
 
 
 # Application definition
